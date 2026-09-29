@@ -26,3 +26,6 @@ This project analyzes e-commerce sales data using SQL Server and Power BI.
 - Top 5 Products by Sales
 - Sales by Customer
 - Interactive slicers for Date, Category, and City
+  
+![E-Commerce Sales Dashboard](image.png)
+
